@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Kibied:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kibied_jar</output-path>
+    <root id="archive" name="Kibied.jar">
+      <element id="module-output" name="Kibied" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+    </root>
+  </artifact>
+</component>
